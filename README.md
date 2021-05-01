@@ -2,6 +2,9 @@
 
 This repo serves as a basic boilerplate to create an extension for [LiteBot-Mod](https://github.com/iDarkLightning/litebot-mod)
 
+There is also another boilerplate available which includes boilerplate code for creating a carpet extension
+as well. This can be found [here](https://github.com/iDarkLightning/litebot-mod-extension/tree/with-carpet).
+
 The primary purpose of an extension is to hook into when the before and after of
 a command on [LiteBot](https://github.com/iDarkLightning/LiteBot) being executed.
 The extension can also be used to dispatch custom events to LiteBot.
